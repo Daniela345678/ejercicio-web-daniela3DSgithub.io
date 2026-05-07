@@ -6,6 +6,7 @@ Página web informativa sobre la gestión de calidad en sistemas informáticos.
 ## Archivos
 - index.html → estructura de la página
 - style.css → estilos y colores pasteles
+- javascript -> motor de la pagina web
 
 ## Funcionalidades
 - Navegación por menú
